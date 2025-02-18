@@ -1,0 +1,19 @@
+Average Budget: $144,500,000.00
+Movies with Budgets Higher than Average:
+Interstellar: $165,000,000 (Higher by $20,500,000.00)
+The Dark Knight: $185,000,000 (Higher by $40,500,000.00)
+Inception: $160,000,000 (Higher by $15,500,000.00)
+Titanic: $200,000,000 (Higher by $55,500,000.00)
+Avengers: Infinity War: $316,000,000 (Higher by $171,500,000.00)
+Frozen II: $150,000,000 (Higher by $5,500,000.00)
+Total High-Budget Movies:6
+Movies Sorted by Budget (Ascending):
+The Father: $4,500,000
+Joker: $55,000,000
+Flow: $65,000,000
+Frozen II: $150,000,000
+Inception: $160,000,000
+Interstellar: $165,000,000
+The Dark Knight: $185,000,000
+Titanic: $200,000,000
+Avengers: Infinity War: $316,000,000
